@@ -14,3 +14,7 @@ div {
   float: left;
   background: linear-gradient(135deg, rgba(255,255,255,0.05) 0%,rgba(0,0,0,0.05) 100%); 
 }
+
+p{
+  font-family: 'Yatra One', cursive;
+}
